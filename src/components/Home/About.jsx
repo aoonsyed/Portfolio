@@ -33,13 +33,13 @@ const About = () => {
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                    <b className="yellow"> Python, </b>
+                    as well as have knowledge in programming languages such as C, Javascript, C#,
+                  <b className="yellow"> Docker, and Django Rest Framework.</b>
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
+                  with <b className="yellow">Django Framework, PostgreSQL,</b> and
                   <i>
                     <b className="yellow">
                       {" "}
@@ -48,7 +48,7 @@ const About = () => {
                   </i>
                   &nbsp; like
                   <i>
-                    <b className="yellow"> React.js</b>
+                    <b className="yellow"> React.js and Typescript</b>
                   </i>
                   <br />
                   <br />
@@ -77,7 +77,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/aoonsyed"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -99,7 +99,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/aoon-syed-804202237/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -110,7 +110,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://leetcode.com/19sajib/"
+                      href="https://leetcode.com/u/1Vi3uoo33x/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
