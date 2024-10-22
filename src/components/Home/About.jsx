@@ -39,7 +39,7 @@ const About = () => {
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">Django Framework, PostgreSQL,</b> and
+                  with <b className="yellow">Django, Flask, PostgreSQL,</b> and
                   <i>
                     <b className="yellow">
                       {" "}
